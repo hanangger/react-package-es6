@@ -5,7 +5,7 @@ class App extends React.Component {
       return (
          <div>
          	<Hello></Hello>
-         	<h1>Hello World!!!</h1>
+         	<h1>Hello World!</h1>
          </div>
       );
    }
